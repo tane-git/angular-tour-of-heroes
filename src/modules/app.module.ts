@@ -4,8 +4,6 @@ import { FormsModule } from '@angular/forms'; // <-- NgModel lives here
 import { AppRoutingModule } from './app-routing.module';
 import { RouterModule } from '@angular/router';
 
-// import * as components from 'src/components';
-
 import {
   AppComponent,
   DashboardComponent,
